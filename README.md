@@ -1,0 +1,1 @@
+# 爬取kz_rush网站每张kz图的Screenshots和Shortcuts图
