@@ -8,7 +8,7 @@ from scrapy.selector import Selector
 class KzSpider(scrapy.Spider):
     name = 'kz'
     allowed_domains = ["kz-rush.ru"]
-    file = open('./kzrush2.txt')
+    file = open('./kzrush.txt')
     urllist = file.readlines()
     start_urls = []
     #start_urls = ['https://kz-rush.ru/en/maps/cs16/8b1_brickngrass']
