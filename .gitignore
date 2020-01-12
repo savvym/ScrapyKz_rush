@@ -1,0 +1,6 @@
+# Project exclude paths
+/venv/
+/.gitignore
+/.idea/
+/.DS_Store
+/kz/.DS_Store
