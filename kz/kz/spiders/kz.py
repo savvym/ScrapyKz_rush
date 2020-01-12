@@ -1,6 +1,5 @@
 import scrapy
 import re
-from scrapy import Request
 from ..items import KzItem
 from scrapy.selector import Selector
 
