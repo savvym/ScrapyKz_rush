@@ -1,6 +1,6 @@
 # 爬取kz_rush网站每张kz图的Screenshots和Shortcuts图
 ## 关于
-基于scrapy框架，爬取类似https://kz-rush.ru/en/maps/cs16/4k_hb_sofiaFTW页面的screenshots和shortcuts
+基于scrapy框架，爬取类似[https://kz-rush.ru/en/maps/cs16/4k_hb_sofiaFTW](https://kz-rush.ru/en/maps/cs16/4k_hb_sofiaFTW)页面的screenshots和shortcuts
 ## 文件介绍
 - ###  item.py
 ```
