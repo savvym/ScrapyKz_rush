@@ -38,7 +38,7 @@ DOWNLOADER_MIDDLEWARES = {
 }
 
 IMAGES_URLS_FIELD = "screenshots"
-IMAGES_STORE = '../imgaes'
+IMAGES_STORE = '../imgaes' 
 ITEM_PIPELINES = {
     'kz.pipelines.ImgPipeline':1,
     'kz.pipelines.KzPipeline': 2,
